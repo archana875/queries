@@ -110,15 +110,15 @@ body{
     
 }
 .veg{
-    margin-left: 10px;   
+    margin-left:10px;   
 }
 .veg-item{
-    margin-right:13px;
+margin: 0px;
 }
 .veg-icon{
     height: 30px;
     width: 30px;
     margin-right: 5px;
-    justify-content: space-around;
+    
 }
 }
