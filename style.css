@@ -24,16 +24,21 @@ body{
 }
 .header-content{
     display: flex;
-    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 .celebration{
     width: 500px;
+
 }
 .content{
     width: 500px;
     font-size: 20px;
+    align-items: center;
+    margin-left:20px ;
+      
+    
 }
 .nav{
     background-color:#00802b;
@@ -42,6 +47,7 @@ body{
     padding: 5px 60px;
     color:black;
     height: 70px;
+    width: 1238px;
 }
 .veg-emoji{
     font-family: cursive;
@@ -109,7 +115,7 @@ body{
     display:none;
 }
 .veg{
-    margin-left:10px;   
+    margin-left:2px;   
 }
 .veg-item{
 margin: 0px;
