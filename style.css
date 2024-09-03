@@ -43,11 +43,13 @@ body{
 .nav{
     background-color:#00802b;
     display: flex;
+    flex-direction: row;
     align-items: center;
     padding: 5px 60px;
     color:black;
     height: 70px;
-    width: 1238px;
+    margin: 0px;
+    width: 1240px;
 }
 .veg-emoji{
     font-family: cursive;
